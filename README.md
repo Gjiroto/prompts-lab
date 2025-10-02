@@ -1,2 +1,2 @@
 # prompts-lab
-Repositorio de prompts con portadas
+Repositorio de prompts para agentes IA
