@@ -1,13 +1,5 @@
 # Prompt general - Retratos en blanco y negro
 
-Prompt para generar retratos ultra realistas en blanco y negro a partir de una foto subida.
-No es un agente; es un prompt listo para pegar en el chat.
-
-## Uso rapido
-1) Sube la foto.
-2) Elige una variante (misma pose u otra pose).
-3) Agrega opciones si lo necesitas.
-4) Pega el prompt negativo (Es recomendado).
 
 ---
 
