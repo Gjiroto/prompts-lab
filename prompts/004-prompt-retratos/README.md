@@ -19,7 +19,7 @@ No es un agente; es un prompt listo para pegar en el chat.
 1) Sube la foto original.
 2) Elige una variante del archivo `prompt general.md`.
 3) Agrega opciones si aplica.
-4) Pega el prompt negativo recomendado.
+4) Pega el prompt negativo (Se debe agregar debajo del prompt base).
 
 Archivo principal:
 - `prompt general.md`
