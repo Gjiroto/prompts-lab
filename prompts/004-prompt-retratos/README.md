@@ -34,6 +34,8 @@ Archivo principal:
 | Misma persona, misma pose | ![misma pose](ejemplo_resultados/misma_pose_retrato.jpeg) |
 | Misma persona, otra pose | ![otra pose](ejemplo_resultados/diferente_pose_retrato.jpeg) |
 
+Referencia de la imagen original: https://unsplash.com/es/fotos/un-hombre-con-una-camisa-blanca-posa-para-una-foto-mRVP1c59wko
+
 ---
 
 ## Notas
