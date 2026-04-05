@@ -8,4 +8,5 @@ Cada prompt tiene su carpeta con portada y guía de uso.
 | [![002](prompts/002-prompt-java/cover.png)](prompts/002-prompt-java/README.md) | [002-prompt-java](prompts/002-prompt-java/README.md) | Agente Java. |
 | [![003](prompts/003-prompt-plSQL/cover.png)](prompts/003-prompt-plSQL/README.md) | [003-prompt-PL/SQL](prompts/003-prompt-plSQL/README.md) |Agente PL/SQL. |
 | [![004](prompts/004-prompt-retratos/cover.png)](prompts/004-prompt-retratos/README.md) | [004-prompt-retratos](prompts/004-prompt-retratos/README.md) | Prompt general para retratos B/N. |
+| [![005](prompts/005-prompt-revisor-hv/cover.png)](prompts/005-prompt-revisor-hv/README.md) | [005-prompt-revisor-hv](prompts/005-prompt-revisor-hv/README.md) | Prompt revisor de HV con reporte PDF. |
 
